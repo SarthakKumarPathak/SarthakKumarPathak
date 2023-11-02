@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarthakKumarPathak
 - 👀 I’m interested in AIML
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Development
 
 <!---
 SarthakKumarPathak/SarthakKumarPathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
