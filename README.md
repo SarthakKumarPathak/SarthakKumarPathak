@@ -1,5 +1,5 @@
 👋 Hi, I'm Sarthak Kumar Pathak
-🎓 2nd Year Undergrad at Dr. APJ ABDUL KALAM TECHNICAL University
+🎓 3rd Year Undergrad at Dr. APJ ABDUL KALAM TECHNICAL University
 📚 Pursuing Bachelor's in Technology in Computer Science and Engineering
 🧠 Specializing in AI and ML
 
