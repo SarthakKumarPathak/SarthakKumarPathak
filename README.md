@@ -1,16 +1,1 @@
-👋 Hi, I'm Sarthak Kumar Pathak
-🎓 3rd Year Undergrad at Dr. APJ ABDUL KALAM TECHNICAL University
-📚 Pursuing Bachelor's in Technology in Computer Science and Engineering
-🧠 Specializing in AI and ML
-
-🎓 Also studying at IIT Madras
-📊 Pursuing B.Sc. in Data Science and Applications
-
-👨‍💻 Aspiring Full-Stack Developer
-💼 Actively seeking Internship Opportunities
-🚀 Learning MERN Stack for Web Development
-
-
-📧 Contact me at sarthakpathak777477@gmail.com
-https://www.linkedin.com/in/sarthak-kumar-pathak-4a3262258/
-
+Hi, I'm Sarthak Kumar Pathak, a 3rd Year Undergrad at Dr. APJ Abdul Kalam Technical University, pursuing a Bachelor's in Technology in Computer Science and Engineering with a specialization in AI and ML. I'm a dedicated student passionate about problem-solving and data science, eager to apply my skills in real-world scenarios. You can contact me at sarthakpathak777477@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/skpathak21/
